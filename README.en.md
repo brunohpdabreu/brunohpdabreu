@@ -13,7 +13,7 @@ a work-in-progress developer with a passion for learning. **♾️Dev.ß**
 - ⭐ Anticipation is power, reaction is weakness..
 - `🐟 #KeepOnCoding`.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunohpdabreu&custom_title=Stats&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_mocha&card_width=495)](https://github.com/brunohpdabreu?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunohpdabreu&custom_title=Stats&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_mocha&card_width=495)](https://github.com/brunohpdabreu?tab=repositories) <br />
 [![GitHub Stats Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunohpdabreu&theme=catppuccin_mocha&hide_border=true)](https://github.com/brunohpdabreu?tab=repositories)
 
 ![Languages](https://skillicons.dev/icons?i=javascript,typescript&perline=4)
